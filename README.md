@@ -16,7 +16,7 @@ The Database that I will use is MySQL, and it will include the following tables:
 
 and the connections will be automatically as follows:
 
-![Image of ERD](./readmeFiles/‪SQL-Tables.png)
+![](./readmeFiles/SQL-Tables.png)
 
 ## Server
 
